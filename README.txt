@@ -174,4 +174,11 @@ and NumTimes value to the ViewData dictionary.
 At first Rating column was avilable but these was no value so i was edited the movie to add the 
 rating but the validation was to add an alphabat
 
+
+
+2024-06-06
+
+# I created updated the seeddatabse while deleting the old data and updating new one with 5 new 
+movies added in seeddabase.
+
 20240526193525_Rating- this the migration time for Rating column
