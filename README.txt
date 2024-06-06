@@ -181,4 +181,8 @@ rating but the validation was to add an alphabat
 # I created updated the seeddatabse while deleting the old data and updating new one with 5 new 
 movies added in seeddabase.
 
+# First i was not able to change the seed database and i tried everything to update it like
+editing new movies update database and adding migrations but al this did not work, later i found
+out that the already existed database needs to be deleted and than it will automatically update.
+
 20240526193525_Rating- this the migration time for Rating column
